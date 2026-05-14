@@ -1,0 +1,16 @@
+{
+  "name": "GC Rim-to-Rim",
+  "short_name": "GC R2R",
+  "description": "Grand Canyon Rim-to-Rim hiking command center",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
